@@ -38,6 +38,18 @@ vonic 模态框的关闭 ## 待解决
 右上角登录菜单加一个修改密码链接	1
 顶部空白区域去掉	1
 后端应用中心菜单，加在门户上，用权限控制	
-
+       ## 流程下面修改链接
+              * 待办事宜：/workflow/request/RequestView.jsp
+              * 新建流程：/workflow/request/RequestType.jsp
+              * 已办事宜：/workflow/request/RequestHandled.jsp
+              * 流程督办：/workflow/search/RequestSupervise.jsp
+              * 我的请求：/workflow/request/MyRequestView.jsp
+              * 流程代理：/workflow/request/wfAgentStatistic.jsp
+              * 查询流程：/workflow/search/WFSearch.jsp
+              * 批量打印：/workflow/request/WorkflowMultiPrintTree.jsp
+              * 流程监控：/system/systemmonitor/workflow/WorkflowMonitor.jsp
+              * 自定义查询：/workflow/search/CustomSearch.jsp
+              * 流程存为文档：/system/systemmonitor/workflow/WorkflowToDoc.jsp
+              * 流程回收站：/workflow/search/RequestDeleteSearch.jsp
 
 ```
