@@ -51,5 +51,18 @@ vonic 模态框的关闭 ## 待解决
               * 自定义查询：/workflow/search/CustomSearch.jsp
               * 流程存为文档：/system/systemmonitor/workflow/WorkflowToDoc.jsp
               * 流程回收站：/workflow/search/RequestDeleteSearch.jsp
+        ## 知识模块
+               新建文档：/docs/docs/DocList.jsp?
+               我的文档：/docs/search/DocMain.jsp?urlType=5
+               查询文档：/docs/search/DocMain.jsp?urlType=14
+               文档目录：/docs/search/DocMain.jsp?urlType=6
+               虚拟目录：/docs/docdummy/DocDummyList.jsp
+               最新文档：/docs/search/DocMain.jsp?urlType=0
+               知识排名：/docs/search/DocMain.jsp?urlType=2
+               文档订阅：/docs/search/DocMain.jsp?urlType=7
+               批量共享：/docs/search/DocMain.jsp?urlType=13
+               移动复制：/docs/search/DocSearchTab.jsp?_fromURL=3
+               文档监控：/docs/search/DocSearchTab.jsp?_fromURL=5
+               我的云盘：/rdeploy/chatproject/doc/index.jsp
 
 ```
