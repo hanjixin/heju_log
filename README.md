@@ -83,3 +83,21 @@ vonic 模态框的关闭 ## 待解决
 ```
 ## 免费接口API
        http://blog.csdn.net/lixuce1234/article/details/65937155
+## 2017/10/20
+    :
+首页:/homepage/Homepage.jsp?hpid=23&subCompanyId=44
+通知与新闻：
+    综合新闻页：
+    财务新闻页：
+    人力资源新闻页：
+    流程中心：/workflow/request/RequestView.jsp
+    报表中心：
+    人力资源：/hrm/search/HrmResourceSearch_frm.jsp
+    会议：/meeting/data/MeetingCalView.jsp
+    项目中心：/formmode/search/CustomSearchBySimple.jsp?customid=1
+    客户中心：/formmode/search/CustomSearchBySimple.jsp?customid=41
+    资产中心：/formmode/search/CustomSearchBySimple.jsp?customid=82
+    课程中心：
+    资产与文档：/docs/search/DocSearchTab.jsp?_fromURL=4
+    :
+    会议：/meeting/report/MeetingRoomPlan.jsp?canEdit=1
