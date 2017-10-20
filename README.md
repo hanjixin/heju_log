@@ -64,6 +64,21 @@ vonic 模态框的关闭 ## 待解决
                移动复制：/docs/search/DocSearchTab.jsp?_fromURL=3
                文档监控：/docs/search/DocSearchTab.jsp?_fromURL=5
                我的云盘：/rdeploy/chatproject/doc/index.jsp
+        ## 人事模块
+        人事模块下链接：
+                查询人员：/hrm/search/HrmResourceSearch_frm.jsp
+                新建人员：/hrm/resource/HrmResource_frm.jsp
+                我的卡片：/hrm/HrmTab.jsp?_fromURL=HrmResource
+                我的下属：/hrm/HrmTab.jsp?_fromURL=HrmResourceView
+                我的培训：/hrm/HrmTab.jsp?_fromURL=HrmResourceTrainRecord
+                我的工资：/hrm/HrmTab.jsp?_fromURL=HrmResourceFinanceView
+                奖惩考核：/hrm/HrmTab.jsp?_fromURL=HrmResourceRewardsRecord
+                我的考勤：/hrm/HrmTab.jsp?_fromURL=HrmResourceAbsense
+                在线人员：/hrm/resource/OnlineUser_frm.jsp
+                密码设置：/hrm/HrmTab.jsp?_fromURL=HrmResourcePassword
+                人员生日：/hrm/HrmTab.jsp?_fromURL=HrmBirthdayInfo
+                外勤签到：/hrm/HrmTab.jsp?_fromURL=mobileSignIn
+                我的排班：/hrm/schedule/hrmScheduleSet/tab.jsp?topage=myschedule
 
 ```
 ## 免费接口API
