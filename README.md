@@ -103,3 +103,14 @@ vonic 模态框的关闭 ## 待解决
     :
     会议：/meeting/report/MeetingRoomPlan.jsp?canEdit=1
 ```
+## 2017/10/23
+```
+oa 移动端登录页面
+OA home页面
+OA list 页面
+
+OA 和君登录系统 
+     删除 oa-main-arrange部分
+     修改首页链接
+     以及页面优化的问题
+```
