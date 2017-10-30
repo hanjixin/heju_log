@@ -128,3 +128,13 @@ OA 和君登录系统
 :
 通知与新闻链接：/docs/search/DocCommonContent.jsp?hasTab=1&offical=&officalType=-1&dspreply=&seccategory=104&urlType=6
  ```
+ ## 2017/10/27
+ ```
+   修改菜单的左侧权限、
+   页面再次修改宽度1250
+   修改左侧的菜单宽度
+   增加左上的    与我相关   和我的流程提示
+   修改祝福语随机出现    及动画的添加
+   修改快捷功能的顺序和样式
+
+ ```
